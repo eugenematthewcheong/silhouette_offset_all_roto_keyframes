@@ -119,7 +119,7 @@ class offset_dialog(QtWidgets.QWidget):
 
 class offsetAllKeyframes(fx.Action):  
   def __init__(self):
-    fx.Action.__init__(self, 'EM Time | Offset All Keyframes')
+    fx.Action.__init__(self, 'EM Tools | Offset All Keyframes')
   
   def execute(self):
     global win
