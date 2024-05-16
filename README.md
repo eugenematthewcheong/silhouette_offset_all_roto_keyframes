@@ -10,6 +10,6 @@ This tool will offset all roto keyframes to the target start frame. Useful for r
 
 ## Instructions
 1. Select Roto Node
-2. Go to Action > EM Time > Offset All Keyframes
+2. Go to Action > EM Tools > Offset All Keyframes
 3. Set current first frame
 4. Set target first frame
