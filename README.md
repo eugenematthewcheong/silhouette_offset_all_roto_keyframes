@@ -1,4 +1,5 @@
 # Silhouette Offset All Roto Keyframes
+Author: Eugene Matthew Cheong
 For Silhouette version 2020 and above
 
 ## Description:
